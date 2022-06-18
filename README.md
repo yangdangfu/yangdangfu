@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @yangdangfu
+<!-- - 👋 Hi, I’m @yangdangfu
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... -->
 - 📫 Reach me by email: yangdangfu@csu.edu.cn
 
 <!---
