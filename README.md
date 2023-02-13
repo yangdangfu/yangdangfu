@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... -->
-- 📫 Reach me by email: yangdangfu@csu.edu.cn
+- 📫 Reach me by email: ydangfu@163.com
 
 <!---
 yangdangfu/yangdangfu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
